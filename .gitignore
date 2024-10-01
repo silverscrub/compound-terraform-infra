@@ -4,3 +4,7 @@ terraform.tfvars.*
 terraform.tfstate
 terraform.tfstate.*
 *.pub
+*.pem
+
+modules/secrets/teller/*
+.DS_Store
